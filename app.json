@@ -1,0 +1,12 @@
+{
+  "name": "detox-testing-ci",
+  "displayName": "detox-testing-ci",
+  "expo": {
+    "name": "detox-testing-ci",
+    "slug": "detox-testing-ci",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
